@@ -26,7 +26,7 @@ This WordPress plugin allows you to seamlessly integrate dynamic selection of It
 
 ## Installation
 
-1. Download the plugin ZIP file from the [[latest release](https://github.com/hmtechnology/regioni-province-comuni-cf7-wordpress/releases/latest)](https://github.com/hmtechnology/regioni-province-comuni-cf7-wordpress/tree/main/regioni-province-comuni).
+1. Download the plugin ZIP file from the [latest release](https://github.com/hmtechnology/regioni-province-comuni-cf7-wordpress/tree/main/regioni-province-comuni)
 2. Go to your WordPress Admin Dashboard.
 3. Navigate to "Plugins" > "Add New."
 4. Click "Upload Plugin" and select the ZIP file.
