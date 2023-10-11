@@ -39,9 +39,9 @@ This WordPress plugin allows you to seamlessly integrate dynamic selection of It
 2. Add the following fields to your CF7 form:
 
       ```html
-      <label for="regione">Region
+      <label for="regione">Regione
           [select* regione id:regione class:seleziona-regione] </label>
-      <label for="provincia">Province
+      <label for="provincia">Provincia
           [select* provincia id:provincia class:seleziona-provincia] </label>
       <label for="comune">Comune
           [select* comune id:comune class:seleziona-comune] </label>
