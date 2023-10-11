@@ -1,0 +1,73 @@
+/* Form Style */
+.wpcf7-form {
+    background-color: #f7f7f7;
+    padding: 50px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+/* Input Field Label Style */
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-right: 20px;
+}
+
+/* Input Field Style */
+.wpcf7-form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 16px;
+}
+
+/* Submit Button Style */
+.wpcf7-submit {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.wpcf7-submit:hover {
+    background-color: #0056b3;
+}
+
+/* Response Message Style */
+.wpcf7-response-output {
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+/* Validation Error Style */
+.wpcf7-not-valid-tip {
+    color: red;
+    font-size: 12px;
+    display: block;
+    margin-top: 5px;
+}
+
+/* Regioni Selector Style */
+.seleziona-regione {
+    width: 100%;
+}
+
+/* Other Selectors Style (Province, Comuni) */
+.wpcf7-select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 16px;
+}
