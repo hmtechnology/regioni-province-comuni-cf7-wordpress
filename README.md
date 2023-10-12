@@ -58,15 +58,16 @@ This WordPress plugin allows you to seamlessly integrate dynamic selection of It
 
 Your Contact Form 7 form is now configured to enable dynamic selection of Italian regions, provinces, and comuni. When users interact with the form, they can seamlessly choose their desired locations.
 
+## Contributing
+
+Contributions are welcome! If you have any improvements or new features to suggest, please open an issue or submit a pull request. We appreciate your feedback.
+
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 
-## Support
-
-If you encounter any issues or have questions about using the plugin, please [open an issue](https://github.com/hmtechnology/regioni-province-comuni-cf7-wordpress/issues) in this repository.
-
 ## Author
 
 This plugin is maintained by [hmtechnology](https://github.com/hmtechnology).
+
 
